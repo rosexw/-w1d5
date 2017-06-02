@@ -1,0 +1,25 @@
+{
+  "name": "projectwithnpm",
+  "version": "1.0.0",
+  "description": "https://web-compass.lighthouselabs.ca/days/w1d5/activities/97",
+  "main": "exportfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rosexw/-w1d5.git"
+  },
+  "author": "rose",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosexw/-w1d5/issues"
+  },
+  "homepage": "https://github.com/rosexw/-w1d5#readme",
+  "keywords": [
+    "npm"
+  ],
+  "dependencies": {
+    "chalk": "^1.1.3"
+  }
+}
