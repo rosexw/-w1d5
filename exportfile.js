@@ -1,3 +1,11 @@
+/*1. Requiring Modules
+Exercise
+This is exportfile.js -- Implement your own module that exports an object containing a function. However the function you export should invoke a 'private' function that is defined within your module but not exported from it.
+This is tempconver.js  -- Implement a Node.js script that imports the functionality of your module and invokes at least one exported function.
+What I made is a temperature converter that takes the degrees in fahrenheit and calculates it in celsius.
+*/
+
+
 //this is for https://web-compass.lighthouselabs.ca/days/w1d5/activities/99 exercise
 //I am creating a tempertature converter
 // It will receive the temperature in fahrenheit
@@ -15,4 +23,3 @@ var converter = require("./tempconverter.js");
 // })
 
 converter.displayTemp(98.6);
-

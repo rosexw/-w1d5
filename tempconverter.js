@@ -1,4 +1,5 @@
-//this is for https://web-compass.lighthouselabs.ca/days/w1d5/activities/99 exercise
+// 1. tempconverter, exports from exportfile.js
+// this is for https://web-compass.lighthouselabs.ca/days/w1d5/activities/99 exercise
 //I am creating a tempertature converter
 // It will receive the temperature in fahrenheit
 //then calculate and output the temperature in celsius

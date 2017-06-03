@@ -1,4 +1,4 @@
-/*
+/* 2. Playing with chalk to make console.log look different.
 Modify index.js to explore the functions of Chalk. Try chaining commands together to combine various styles.
 
 Take a look through the source code on GitHub (https://github.com/chalk/chalk), including the project's package.json.
